@@ -1,0 +1,6 @@
+__pycache__
+venv/
+venv_new/
+djangoappworkspace/
+myproject/
+newenv/
