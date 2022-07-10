@@ -6,7 +6,7 @@ click==8.0.4
 colorama==0.4.4
 contextlib2==21.6.0
 contextvars==2.4
-cryptography==37.0.4
+cryptography==35.0.0
 dataclasses==0.8
 dnspython==2.2.1
 ecdsa==0.17.0
