@@ -31,5 +31,5 @@ starlette==0.19.1
 typing==3.7.4.3
 typing_extensions==4.3.0
 uvicorn==0.18.2
+dataclasses==0.6
 cryptography==35.0.0
-dataclasses==0.8
