@@ -1,4 +1,3 @@
-from asyncio.windows_events import NULL
 from fastapi import FastAPI
 from typing import Optional,List
 from random  import randrange
